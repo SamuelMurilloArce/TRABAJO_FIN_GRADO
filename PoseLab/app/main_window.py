@@ -97,7 +97,8 @@ class MainWindow(QMainWindow):
         model_layout = QVBoxLayout(model_group)
 
         self.model_combo = QComboBox()
-        self.model_combo.addItem("YOLOv8n-pose")
+        self.model_combo.clear()
+        self.model_combo.addItem("Detector simple de movimiento")
 
         model_layout.addWidget(QLabel("Modelo de detección:"))
         model_layout.addWidget(self.model_combo)
@@ -233,9 +234,9 @@ class MainWindow(QMainWindow):
     def create_detector(self):
         model_name = self.model_combo.currentText()
 
-        if model_name == "YOLOv8n-pose":
-            from models.yolov8_pose_detector import YOLOv8PoseDetector
-            return YOLOv8PoseDetector()
+        if model_name == "Detector simple de movimiento":
+            from models.simple_motion_detector import SimpleMotionDetector
+            return SimpleMotionDetector()
 
         raise ValueError(f"Modelo no soportado: {model_name}")
 

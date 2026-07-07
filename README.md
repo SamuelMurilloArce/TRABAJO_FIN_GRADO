@@ -55,6 +55,8 @@ PoseLab/
 ├── models/
 │   ├── base_detector.py
 │   └── yolov8_pose_detector.py
+|   |-- simple_motion_detector.py
+|   |-- yolo_pose_detector.py
 │
 ├── assets/
 ├── data/
