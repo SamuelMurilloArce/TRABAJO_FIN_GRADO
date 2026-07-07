@@ -1,0 +1,20 @@
+Copyright (c) 2026 Samuel Murillo Arce
+
+Todos los derechos reservados.
+
+Este repositorio contiene el desarrollo del Trabajo Fin de Grado realizado por Samuel Murillo Arce.
+
+El contenido del repositorio, incluyendo, entre otros:
+
+* Código fuente.
+* Documentación.
+* Memoria del TFG.
+* Anexos.
+* Diagramas.
+* Imágenes.
+* Modelos de Inteligencia Artificial.
+* Recursos gráficos.
+
+es propiedad intelectual del autor y está protegido por la legislación vigente sobre propiedad intelectual.
+
+La reproducción, distribución, modificación o explotación del contenido, total o parcial, requerirá la autorización expresa y por escrito del autor, salvo en los casos permitidos por la legislación aplicable o por la licencia incluida en este repositorio.

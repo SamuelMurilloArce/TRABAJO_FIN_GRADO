@@ -1,0 +1,18 @@
+LICENCIA ACADÉMICA – USO NO COMERCIAL
+
+Copyright (c) 2026 Samuel Murillo Arce
+
+Todos los derechos reservados.
+
+Este proyecto ha sido desarrollado como parte del Trabajo Fin de Grado del autor.
+
+Se autoriza la visualización y descarga del contenido únicamente con fines académicos, docentes o de investigación, siempre que se mantenga el reconocimiento de la autoría.
+
+No está permitido:
+
+* Utilizar el software con fines comerciales.
+* Redistribuir el código fuente sin autorización expresa del autor.
+* Modificar el proyecto y distribuir versiones derivadas sin consentimiento previo.
+* Eliminar o modificar los avisos de copyright.
+
+EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA. EL AUTOR NO SERÁ RESPONSABLE DE LOS DAÑOS O PERJUICIOS DERIVADOS DEL USO DEL SOFTWARE.

@@ -1,0 +1,61 @@
+# Byte-compiled
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Logs
+*.log
+
+# Python cache
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Distribution
+build/
+dist/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Datos generados
+data/results/*
+!data/results/.gitkeep
+
+# Vídeos de prueba
+data/input_videos/*
+!data/input_videos/.gitkeep
+
+# Modelos grandes
+*.pt
+*.pth
+*.onnx
+*.task
+
+# Exportaciones
+*.csv
+*.json
+
+# Cobertura
+.coverage
+htmlcov/
+
+# Archivos temporales
+*.tmp
+*.bak
