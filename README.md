@@ -151,7 +151,7 @@ La aplicación permite exportar:
 
 ## Autor
 
-Samuel Murillo
+Samuel Murillo Arce
 
 Trabajo Fin de Grado
 
