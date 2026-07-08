@@ -1,11 +1,11 @@
 # Recursos multimedia
 
-La carpeta ssets contiene los recursos multimedia utilizados para ilustrar el funcionamiento y los resultados del proyecto, como vÌdeos, im·genes y otros materiales de apoyo.
+La carpeta assets contiene los recursos multimedia utilizados para ilustrar el funcionamiento y los resultados del proyecto, como v√≠deos, im√°genes y otros materiales de apoyo.
 
-## InformaciÛn importante
+## Informaci√≥n importante
 
-Debido a las limitaciones de almacenamiento de GitHub, no se incluyen todos los vÌdeos generados durante el desarrollo del Trabajo Fin de Grado.
+Debido a las limitaciones de almacenamiento de GitHub, no se incluyen todos los v√≠deos generados durante el desarrollo del Trabajo Fin de Grado.
 
 El resto del material audiovisual puede consultarse en las correspondientes memorias y anexos entregados junto con el proyecto.
 
-Para acceder a la totalidad de los vÌdeos y recursos complementarios, consulte la documentaciÛn oficial del TFG.
+Para acceder a la totalidad de los v√≠deos y recursos complementarios, consulte la documentaci√≥n oficial del TFG.
